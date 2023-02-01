@@ -1,0 +1,18 @@
+{
+  "ids": {
+    "User": 4,
+    "Todo": 4
+  },
+  "models": {
+    "User": {
+      "1": "{\"name\":\"George\",\"id\":1}",
+      "2": "{\"name\":\"Dan\",\"id\":2}",
+      "3": "{\"name\":\"Olivia\",\"id\":3}"
+    },
+    "Todo": {
+      "1": "{\"title\":\"Buy Milk\",\"isComplete\":false,\"userId\":1,\"id\":1}",
+      "2": "{\"title\":\"Meeting X\",\"isComplete\":true,\"userId\":1,\"id\":2}",
+      "3": "{\"title\":\"Meeting Y\",\"isComplete\":false,\"userId\":1,\"id\":3}"
+    }
+  }
+}
